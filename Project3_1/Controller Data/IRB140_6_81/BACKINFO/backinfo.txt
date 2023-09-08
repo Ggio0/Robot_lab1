@@ -24,7 +24,7 @@ SIO.cfg
 MOC.cfg
 
 
->>TASK1: (T_ROB1,Lab1Gio,)
+>>TASK1: (T_ROB1,Lab1G,)
 SYSMOD\user.sys @ 
 PROGMOD\Module1.mod @ 
 PROGMOD\CalibData.mod @ 
