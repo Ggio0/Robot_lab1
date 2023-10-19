@@ -79,6 +79,8 @@ menciona que se usó cuando se realizan rutinas sobre el pastel, lo que implica 
 escritura o decoración en el pastel. Se especifica que se realizó con una velocidad de 100 para trazos
 y una velocidad de 500 cuando el actuador final necesita acercarse o alejarse ligeramente del pastel,
 para realizar un movimiento más rápido para cambios de posición.
+Con estas funciones se hicieron las rutinas de las letras de los nombres por separado, luego se juntaron
+las rutinas de cada nombre en una sola llamadas "Giova" y "Nicol", que son las rutinas ejecutadas en el main,
 Fue con base en estas dos funciones que se crearon las rutinas de movimiento del robot, en el código
 se puede distinguir rutinas para cada letra y para el fénix, así como el retorno a home. Esto se puede
 observar mejor en el código de RAPID.
