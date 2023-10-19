@@ -95,11 +95,17 @@ Programa en robot studio usado para el desarrollo de la practica.
 https://github.com/Ggio0/Robot_lab1/tree/main/Entregables/CodigoRAPID/Robot_lab1-main
 # Video 
 Video del robot en el plano horizontal.
+
 https://github.com/Ggio0/Robot_lab1/assets/82681128/fef23a7d-0e4a-4764-8e38-4d0a4809387a
+
 Video del robot en plano inclinado.
+
 https://github.com/Ggio0/Robot_lab1/assets/82681128/6565816e-26cd-4f1f-ad39-eb8d0186d6ca
+
 Video de la simulacion.
+
 https://github.com/Ggio0/Robot_lab1/assets/82681128/a3b8d581-4c41-437f-96cf-162f7a9a47f7
+
 ver en mejor calidad.
 https://github.com/Ggio0/Robot_lab1/tree/main/Entregables/Videos
 
