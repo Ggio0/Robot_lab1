@@ -61,8 +61,10 @@ inclinación real de este para recalibrar el workobject del código. Después de
 desniveles del montaje se realiza la rutina sin ningún tipo de problemas, dando por finalizada la
 práctica de laboratorio.
 # Diagrama Flujo
+![image](https://github.com/Ggio0/Robot_lab1/assets/82681128/f85e1831-3d79-45ad-b60b-7b7bc117f9a9)
 https://github.com/Ggio0/Robot_lab1/blob/main/Entregables/DiagramaDeFlujo/DiagramaFlujo.pdf
 # Plano de planta 
+![image](https://github.com/Ggio0/Robot_lab1/assets/82681128/27aff2d6-9c66-4992-b47a-afe5e9fd9f19)
 https://github.com/Ggio0/Robot_lab1/blob/main/Entregables/PlanoPlanta/PlanoPlanta.pdf
 # Descripción de las funciones utilizadas.
 Las funciones utilizadas en el código de RAPID fueron principalmente dos, movJ y movL.
@@ -81,16 +83,29 @@ Fue con base en estas dos funciones que se crearon las rutinas de movimiento del
 se puede distinguir rutinas para cada letra y para el fénix, así como el retorno a home. Esto se puede
 observar mejor en el código de RAPID.
 # Diseño de la herramienta
+La herramienta fue diseñada para impresión 3D, por lo que ahora se explicará el proceso de
+modelado. El explosionado se muestra en la siguiente figura.
+![image](https://github.com/Ggio0/Robot_lab1/assets/82681128/ce435dab-19a1-49db-b8aa-1daa6e79681d)
+El modelado de esta y la herramienta ya fabricada se puede apreciar en las siguientes figuras.
+![image](https://github.com/Ggio0/Robot_lab1/assets/82681128/419d1eb2-a976-49b8-8e8b-2d9fc8ff79ff)
+Para mas informacion remitirse al apartado del git Diseño de herramienta.
 https://github.com/Ggio0/Robot_lab1/blob/main/Entregables/DiseñoHerramienta/Diseño_herramienta.pdf
 # Codigo en Rapid
+Programa en robot studio usado para el desarrollo de la practica.
 https://github.com/Ggio0/Robot_lab1/tree/main/Entregables/CodigoRAPID/Robot_lab1-main
 # Video 
-
-https://github.com/Ggio0/Robot_lab1/assets/82681128/6565816e-26cd-4f1f-ad39-eb8d0186d6ca
-
+Video del robot en el plano horizontal.
 https://github.com/Ggio0/Robot_lab1/assets/82681128/fef23a7d-0e4a-4764-8e38-4d0a4809387a
+Video del robot en plano inclinado.
+https://github.com/Ggio0/Robot_lab1/assets/82681128/6565816e-26cd-4f1f-ad39-eb8d0186d6ca
+Video de la simulacion.
+https://github.com/Ggio0/Robot_lab1/assets/82681128/a3b8d581-4c41-437f-96cf-162f7a9a47f7
+ver en mejor calidad.
+https://github.com/Ggio0/Robot_lab1/tree/main/Entregables/Videos
 
-https://github.com/Ggio0/Robot_lab1/blob/main/Entregables/Videos/VideoSimulacion.mp4
+
+
+
 
 
 
